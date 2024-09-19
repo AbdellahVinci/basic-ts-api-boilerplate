@@ -11,7 +11,7 @@ const defaultFilms: Film[] = [
       director : "Victor Ponten",
       duration : 105,
       budget:300000,
-      description:"Les trois amis Nadir (Nasrdin Dchar), Abdel (Achmed Akkabi) et Zakaria (Marwan Kenzari) habitent aux Pays-Bas. Nadir et Abdel sont d'origine marocaine et Zakaria d'origine tunisienne. Les trois jeunes ont comme plan de créer leur société. Le père de Nadir offre à son fils un ancien taxi qu'il doit ramener à Rabat",
+      description:"Les trois amis Nadiir (Nasrdin Dchar), Abdel (Achmed Akkabi) et Zakaria (Marwan Kenzari) habitent aux Pays-Bas. Nadir et Abdel sont d'origine marocaine et Zakaria d'origine tunisienne. Les trois jeunes ont comme plan de créer leur société. Le père de Nadir offre à son fils un ancien taxi qu'il doit ramener à Rabat",
       imageUrl:"https://fr.web.img4.acsta.net/r_1920_1080/pictures/13/12/26/17/26/420878.jpg",
     },
 
